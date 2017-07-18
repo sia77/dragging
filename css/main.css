@@ -1,0 +1,13 @@
+.handle{
+    border: 1px solid red;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: #ff3809;
+}
+
+.dragpath{
+	height:2px;
+	width:300px;
+	background-color: #ff0000;
+}
